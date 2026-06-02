@@ -3,3 +3,5 @@ waxaa dhisey Portfolio website Oo Modern Ah waxaan Kudhisey Luuqadahan Sidda &lt
 
 ![Portfolio Screenshot](Screenshot%202026-06-02%20084422.png)
 
+![Portfolio Screenshot](Screenshot%202026-06-02%084532.png)
+
