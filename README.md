@@ -5,5 +5,5 @@ waxaa dhisey Portfolio website Oo Modern Ah waxaan Kudhisey Luuqadahan Sidda &lt
 
 waxaa dhisey Portfolio website oo modern ah...
 
-![Portfolio Screenshot](img/1(1).png)
+![(1).png](img/1(1).png)
 
