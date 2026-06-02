@@ -6,8 +6,7 @@ The website includes an AI-powered Assistant that helps visitors learn more abou
 
 Designed and developed by Eng. Abdiraxiin Hussein.
 
-
-![Portfolio Screenshot](Sreenshot%2026-06-02%084532.png)
+![Portfolio Screenshot](Screenshot%202026-06-02%20084422.png)
 
 
 
