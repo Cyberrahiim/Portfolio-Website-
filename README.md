@@ -8,7 +8,7 @@ Designed and developed by Eng. Abdiraxiin Hussein.
 
 ![Portfolio Screenshot](Screenshot%202026-06-02%20084422.png)
 
-![Portfolio Screenshot](1(2).png)
+![Portfolio Screenshot](Sreenshot%2026-06-02%084532.png)
 
 
 
